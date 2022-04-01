@@ -1,0 +1,8 @@
+C:\Users\ldown\Desktop\Luke Work\GitHub Repo\ExampleTest\ExampleTest\bin\Debug\ExampleTest.exe.config
+C:\Users\ldown\Desktop\Luke Work\GitHub Repo\ExampleTest\ExampleTest\bin\Debug\ExampleTest.exe
+C:\Users\ldown\Desktop\Luke Work\GitHub Repo\ExampleTest\ExampleTest\bin\Debug\ExampleTest.pdb
+C:\Users\ldown\Desktop\Luke Work\GitHub Repo\ExampleTest\ExampleTest\obj\Debug\ExampleTest.csproj.AssemblyReference.cache
+C:\Users\ldown\Desktop\Luke Work\GitHub Repo\ExampleTest\ExampleTest\obj\Debug\ExampleTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\ldown\Desktop\Luke Work\GitHub Repo\ExampleTest\ExampleTest\obj\Debug\ExampleTest.csproj.CoreCompileInputs.cache
+C:\Users\ldown\Desktop\Luke Work\GitHub Repo\ExampleTest\ExampleTest\obj\Debug\ExampleTest.exe
+C:\Users\ldown\Desktop\Luke Work\GitHub Repo\ExampleTest\ExampleTest\obj\Debug\ExampleTest.pdb
