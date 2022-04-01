@@ -4,14 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExampleTest
+namespace forloop
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            for(i = 0)
-            Console.WriteLine("Hello World!");
+            for (int i = 1; i <= 100; i = i + 2)
+            {
+                Console.WriteLine(i);
+            }
             Console.ReadLine();
         }
     }
