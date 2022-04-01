@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2", "Lesson2\Lesson2.csproj", "{36780372-447A-4E15-88BD-73DA21403B5F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop", "oop\oop.csproj", "{9217F5A1-1F31-4D34-A923-DF90D022FAFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqObjects", "LinqObjects\LinqObjects.csproj", "{2F4912D0-2C1E-4F46-8976-BB9C5662D761}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{36780372-447A-4E15-88BD-73DA21403B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{36780372-447A-4E15-88BD-73DA21403B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{36780372-447A-4E15-88BD-73DA21403B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{36780372-447A-4E15-88BD-73DA21403B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9217F5A1-1F31-4D34-A923-DF90D022FAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9217F5A1-1F31-4D34-A923-DF90D022FAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9217F5A1-1F31-4D34-A923-DF90D022FAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9217F5A1-1F31-4D34-A923-DF90D022FAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F4912D0-2C1E-4F46-8976-BB9C5662D761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F4912D0-2C1E-4F46-8976-BB9C5662D761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F4912D0-2C1E-4F46-8976-BB9C5662D761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F4912D0-2C1E-4F46-8976-BB9C5662D761}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+C:\Users\ldown\Desktop\Luke Work\Lesson2\LinqObjects\bin\Debug\LinqObjects.exe.config
+C:\Users\ldown\Desktop\Luke Work\Lesson2\LinqObjects\bin\Debug\LinqObjects.exe
+C:\Users\ldown\Desktop\Luke Work\Lesson2\LinqObjects\bin\Debug\LinqObjects.pdb
+C:\Users\ldown\Desktop\Luke Work\Lesson2\LinqObjects\obj\Debug\LinqObjects.csproj.AssemblyReference.cache
+C:\Users\ldown\Desktop\Luke Work\Lesson2\LinqObjects\obj\Debug\LinqObjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\ldown\Desktop\Luke Work\Lesson2\LinqObjects\obj\Debug\LinqObjects.csproj.CoreCompileInputs.cache
+C:\Users\ldown\Desktop\Luke Work\Lesson2\LinqObjects\obj\Debug\LinqObjects.exe
+C:\Users\ldown\Desktop\Luke Work\Lesson2\LinqObjects\obj\Debug\LinqObjects.pdb
