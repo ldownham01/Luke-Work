@@ -10,24 +10,26 @@ namespace Problem3
     {
         static void Main(string[] args)
         {
-            int bottom = 9;
-            // (bottom - i)/2 = number of spaces
-            // i = number of stars
-            for(int i = 1; i <= bottom; i = i + 2)
-            {
-                int spaces = ((bottom - i) / 2);
+            string[] arr = { " ", " ", " ", " ", " ", " ", " ", " ", " " };
 
-                Console.WriteLine(" ");
-                  
-                for (int k = 0; k < spaces; k++)
+            int bottom = 9;
+            int spaces = 5;
+            //(bottom - i)/2 = number of spaces
+            // i = number of stars
+            for (int i = 1; i <= bottom; i = i + 2)
+            {
+                spaces = ((bottom - i) / 2);
+
+                for (int j = 0; j < i; j++)
                 {
-                    Console.Write(" ");
+                    arr[j + spaces] = "*";
                 }
-                
-                for (int l = 0; l < i; l++)
+
+                for (int k = 0; k < arr.Length - 1; k++)
                 {
-                Console.Write("*");}
-                
+                    Console.Write(arr[k]);
+                }
+                Console.WriteLine(arr[arr.Length - 1]);
             }
             Console.ReadLine();
         }
