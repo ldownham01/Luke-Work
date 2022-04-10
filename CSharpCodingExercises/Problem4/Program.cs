@@ -33,22 +33,32 @@ namespace Problem4
                 Console.WriteLine(arr[arr.Length - 1]);
             }
 
-            /*for (int i = 7; i >= 0; i = i - 2)
+            for(int i = 0; i < arr.Length; i++)
             {
-                spaces = ((bottom - i) / 2);
+                arr[i] = " ";
+            }
 
-                Console.WriteLine(" ");
 
-                for (int k = 0; k < spaces; k++)
+            for (int l = 7; l > 0; l = l - 2)
+            {
+                spaces = ((bottom - l) / 2);
+
+                for (int i = 0; i < arr.Length; i++)
                 {
-                    Console.Write(" ");
+                    arr[i] = " ";
                 }
 
-                for (int l = 0; l < i; l++)
+                for (int m = 0; m < l; m++)
                 {
-                    Console.Write("*");
+                    arr[spaces + m] = "*";
                 }
-            }*/
+
+                for (int k = 0; k < arr.Length-1; k++)
+                {
+                    Console.Write(arr[k]);
+                }
+                Console.WriteLine(arr[arr.Length - 1]);
+            }
 
 
             Console.ReadLine();
