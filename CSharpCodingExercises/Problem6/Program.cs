@@ -10,7 +10,7 @@ namespace Problem6
     {
         static void Main(string[] args)
         {
-            string input = isPalindrome("tenet"); ;
+            string input = isPalindrome("book"); ;
             Console.WriteLine(input);
             Console.ReadLine();
         }
@@ -31,7 +31,7 @@ namespace Problem6
             }
             else
             {
-                return "Not PalinDrome";
+                return "Not Palindrome";
             }
         }
     }
