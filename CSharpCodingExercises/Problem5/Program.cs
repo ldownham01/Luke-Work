@@ -10,6 +10,13 @@ namespace Problem5
     {
         static void Main(string[] args)
         {
+            string s = "hello world";
+
+            char[] arr = s.ToCharArray();
+            Array.Reverse(arr);
+            string output = new string(arr);
+            Console.WriteLine(output);
+            Console.ReadLine();
         }
     }
 }
