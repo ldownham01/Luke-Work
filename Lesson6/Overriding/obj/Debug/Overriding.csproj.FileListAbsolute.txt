@@ -1,0 +1,8 @@
+C:\Users\ldown\Desktop\Luke-Work\Lesson6\Overriding\bin\Debug\Overriding.exe.config
+C:\Users\ldown\Desktop\Luke-Work\Lesson6\Overriding\bin\Debug\Overriding.exe
+C:\Users\ldown\Desktop\Luke-Work\Lesson6\Overriding\bin\Debug\Overriding.pdb
+C:\Users\ldown\Desktop\Luke-Work\Lesson6\Overriding\obj\Debug\Overriding.csproj.AssemblyReference.cache
+C:\Users\ldown\Desktop\Luke-Work\Lesson6\Overriding\obj\Debug\Overriding.csproj.SuggestedBindingRedirects.cache
+C:\Users\ldown\Desktop\Luke-Work\Lesson6\Overriding\obj\Debug\Overriding.csproj.CoreCompileInputs.cache
+C:\Users\ldown\Desktop\Luke-Work\Lesson6\Overriding\obj\Debug\Overriding.exe
+C:\Users\ldown\Desktop\Luke-Work\Lesson6\Overriding\obj\Debug\Overriding.pdb

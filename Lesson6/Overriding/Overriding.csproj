@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D8341AFC-9C40-4CAC-BEBD-AF8E13767B88}</ProjectGuid>
+    <ProjectGuid>{F6612F54-EB4F-4D8A-9689-212FC69D30A7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lesson6</RootNamespace>
-    <AssemblyName>Lesson6</AssemblyName>
+    <RootNamespace>Overriding</RootNamespace>
+    <AssemblyName>Overriding</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AreaofShapes.cs" />
+    <Compile Include="AreaofSquare.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
