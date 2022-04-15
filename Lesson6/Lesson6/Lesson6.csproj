@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9DF4D4DF-C92C-41B1-9045-8E1D27468F75}</ProjectGuid>
+    <ProjectGuid>{D8341AFC-9C40-4CAC-BEBD-AF8E13767B88}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Overloading</RootNamespace>
-    <AssemblyName>Overloading</AssemblyName>
+    <RootNamespace>Lesson6</RootNamespace>
+    <AssemblyName>Lesson6</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Arithmetic.cs" />
-    <Compile Include="Calculate.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
