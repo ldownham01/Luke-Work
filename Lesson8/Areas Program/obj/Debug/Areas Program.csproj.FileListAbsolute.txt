@@ -1,0 +1,17 @@
+C:\Users\ldown\Desktop\Luke-Work\Lesson8\Areas Program\bin\Debug\Areas Program.exe.config
+C:\Users\ldown\Desktop\Luke-Work\Lesson8\Areas Program\bin\Debug\Areas Program.exe
+C:\Users\ldown\Desktop\Luke-Work\Lesson8\Areas Program\bin\Debug\Areas Program.pdb
+C:\Users\ldown\Desktop\Luke-Work\Lesson8\Areas Program\obj\Debug\Areas Program.csproj.AssemblyReference.cache
+C:\Users\ldown\Desktop\Luke-Work\Lesson8\Areas Program\obj\Debug\Areas Program.csproj.SuggestedBindingRedirects.cache
+C:\Users\ldown\Desktop\Luke-Work\Lesson8\Areas Program\obj\Debug\Areas Program.csproj.CoreCompileInputs.cache
+C:\Users\ldown\Desktop\Luke-Work\Lesson8\Areas Program\obj\Debug\Areas Program.exe
+C:\Users\ldown\Desktop\Luke-Work\Lesson8\Areas Program\obj\Debug\Areas Program.pdb
+C:\Users\ldown\Desktop\Luke-Work\Lesson8\Areas Program\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\ldown\Desktop\Luke-Work\Lesson8\Areas Program\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\ldown\Desktop\Luke-Work\Lesson8\Areas Program\bin\Debug\nunit.engine.dll
+C:\Users\ldown\Desktop\Luke-Work\Lesson8\Areas Program\bin\Debug\nunit.engine.api.dll
+C:\Users\ldown\Desktop\Luke-Work\Lesson8\Areas Program\bin\Debug\nunit.engine.core.dll
+C:\Users\ldown\Desktop\Luke-Work\Lesson8\Areas Program\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\ldown\Desktop\Luke-Work\Lesson8\Areas Program\bin\Debug\nunit.framework.dll
+C:\Users\ldown\Desktop\Luke-Work\Lesson8\Areas Program\bin\Debug\nunit.framework.xml
+C:\Users\ldown\Desktop\Luke-Work\Lesson8\Areas Program\obj\Debug\Areas Program.csproj.CopyComplete
