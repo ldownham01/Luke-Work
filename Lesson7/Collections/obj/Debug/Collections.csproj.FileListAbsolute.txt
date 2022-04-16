@@ -1,0 +1,8 @@
+C:\Users\ldown\Desktop\Luke-Work\Lesson7\Collections\bin\Debug\Collections.exe.config
+C:\Users\ldown\Desktop\Luke-Work\Lesson7\Collections\bin\Debug\Collections.exe
+C:\Users\ldown\Desktop\Luke-Work\Lesson7\Collections\bin\Debug\Collections.pdb
+C:\Users\ldown\Desktop\Luke-Work\Lesson7\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Users\ldown\Desktop\Luke-Work\Lesson7\Collections\obj\Debug\Collections.csproj.SuggestedBindingRedirects.cache
+C:\Users\ldown\Desktop\Luke-Work\Lesson7\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\ldown\Desktop\Luke-Work\Lesson7\Collections\obj\Debug\Collections.exe
+C:\Users\ldown\Desktop\Luke-Work\Lesson7\Collections\obj\Debug\Collections.pdb
