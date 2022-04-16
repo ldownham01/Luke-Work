@@ -1,0 +1,8 @@
+C:\Users\ldown\Desktop\Luke-Work\Lesson1 - Data Structures and ArrayLists\ArrayListExample\bin\Debug\ArrayListExample.exe.config
+C:\Users\ldown\Desktop\Luke-Work\Lesson1 - Data Structures and ArrayLists\ArrayListExample\bin\Debug\ArrayListExample.exe
+C:\Users\ldown\Desktop\Luke-Work\Lesson1 - Data Structures and ArrayLists\ArrayListExample\bin\Debug\ArrayListExample.pdb
+C:\Users\ldown\Desktop\Luke-Work\Lesson1 - Data Structures and ArrayLists\ArrayListExample\obj\Debug\ArrayListExample.csproj.AssemblyReference.cache
+C:\Users\ldown\Desktop\Luke-Work\Lesson1 - Data Structures and ArrayLists\ArrayListExample\obj\Debug\ArrayListExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\ldown\Desktop\Luke-Work\Lesson1 - Data Structures and ArrayLists\ArrayListExample\obj\Debug\ArrayListExample.csproj.CoreCompileInputs.cache
+C:\Users\ldown\Desktop\Luke-Work\Lesson1 - Data Structures and ArrayLists\ArrayListExample\obj\Debug\ArrayListExample.exe
+C:\Users\ldown\Desktop\Luke-Work\Lesson1 - Data Structures and ArrayLists\ArrayListExample\obj\Debug\ArrayListExample.pdb

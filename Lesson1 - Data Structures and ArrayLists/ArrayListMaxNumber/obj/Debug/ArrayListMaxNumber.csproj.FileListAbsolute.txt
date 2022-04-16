@@ -1,0 +1,8 @@
+C:\Users\ldown\Desktop\Luke-Work\Lesson1 - Data Structures and ArrayLists\ArrayListMaxNumber\obj\Debug\ArrayListMaxNumber.csproj.AssemblyReference.cache
+C:\Users\ldown\Desktop\Luke-Work\Lesson1 - Data Structures and ArrayLists\ArrayListMaxNumber\obj\Debug\ArrayListMaxNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\ldown\Desktop\Luke-Work\Lesson1 - Data Structures and ArrayLists\ArrayListMaxNumber\obj\Debug\ArrayListMaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\ldown\Desktop\Luke-Work\Lesson1 - Data Structures and ArrayLists\ArrayListMaxNumber\bin\Debug\ArrayListMaxNumber.exe.config
+C:\Users\ldown\Desktop\Luke-Work\Lesson1 - Data Structures and ArrayLists\ArrayListMaxNumber\bin\Debug\ArrayListMaxNumber.exe
+C:\Users\ldown\Desktop\Luke-Work\Lesson1 - Data Structures and ArrayLists\ArrayListMaxNumber\bin\Debug\ArrayListMaxNumber.pdb
+C:\Users\ldown\Desktop\Luke-Work\Lesson1 - Data Structures and ArrayLists\ArrayListMaxNumber\obj\Debug\ArrayListMaxNumber.exe
+C:\Users\ldown\Desktop\Luke-Work\Lesson1 - Data Structures and ArrayLists\ArrayListMaxNumber\obj\Debug\ArrayListMaxNumber.pdb
