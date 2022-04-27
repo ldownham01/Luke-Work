@@ -1,8 +1,0 @@
-C:\Users\ldown\Desktop\Luke-Work\HangManGame\HangManGame\obj\Debug\HangManGame.csproj.AssemblyReference.cache
-C:\Users\ldown\Desktop\Luke-Work\HangManGame\HangManGame\obj\Debug\HangManGame.csproj.SuggestedBindingRedirects.cache
-C:\Users\ldown\Desktop\Luke-Work\HangManGame\HangManGame\obj\Debug\HangManGame.csproj.CoreCompileInputs.cache
-C:\Users\ldown\Desktop\Luke-Work\HangManGame\HangManGame\bin\Debug\HangManGame.exe.config
-C:\Users\ldown\Desktop\Luke-Work\HangManGame\HangManGame\bin\Debug\HangManGame.exe
-C:\Users\ldown\Desktop\Luke-Work\HangManGame\HangManGame\bin\Debug\HangManGame.pdb
-C:\Users\ldown\Desktop\Luke-Work\HangManGame\HangManGame\obj\Debug\HangManGame.exe
-C:\Users\ldown\Desktop\Luke-Work\HangManGame\HangManGame\obj\Debug\HangManGame.pdb
