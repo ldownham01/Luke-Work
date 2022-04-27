@@ -22,7 +22,8 @@ namespace Problem8
                     int temp = list[i] + list[j];
                     if(temp == sum && i != j)
                     {
-                        return Tuple.Create(list[i], list[j]);
+                        var tuple = Tuple.Create(list[i], list[j]);
+                        return tuple;
                     }
                 }
             }

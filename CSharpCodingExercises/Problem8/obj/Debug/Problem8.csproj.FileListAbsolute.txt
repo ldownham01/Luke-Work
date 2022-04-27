@@ -1,0 +1,8 @@
+C:\Users\ldown\Desktop\Luke-Work\CSharpCodingExercises\Problem8\bin\Debug\Problem8.exe.config
+C:\Users\ldown\Desktop\Luke-Work\CSharpCodingExercises\Problem8\bin\Debug\Problem8.exe
+C:\Users\ldown\Desktop\Luke-Work\CSharpCodingExercises\Problem8\bin\Debug\Problem8.pdb
+C:\Users\ldown\Desktop\Luke-Work\CSharpCodingExercises\Problem8\obj\Debug\Problem8.csproj.AssemblyReference.cache
+C:\Users\ldown\Desktop\Luke-Work\CSharpCodingExercises\Problem8\obj\Debug\Problem8.csproj.SuggestedBindingRedirects.cache
+C:\Users\ldown\Desktop\Luke-Work\CSharpCodingExercises\Problem8\obj\Debug\Problem8.csproj.CoreCompileInputs.cache
+C:\Users\ldown\Desktop\Luke-Work\CSharpCodingExercises\Problem8\obj\Debug\Problem8.exe
+C:\Users\ldown\Desktop\Luke-Work\CSharpCodingExercises\Problem8\obj\Debug\Problem8.pdb

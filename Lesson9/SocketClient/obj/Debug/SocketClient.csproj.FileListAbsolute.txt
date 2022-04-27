@@ -1,0 +1,8 @@
+C:\Users\ldown\Desktop\Luke-Work\Lesson9\SocketClient\bin\Debug\SocketClient.exe.config
+C:\Users\ldown\Desktop\Luke-Work\Lesson9\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\ldown\Desktop\Luke-Work\Lesson9\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\ldown\Desktop\Luke-Work\Lesson9\SocketClient\obj\Debug\SocketClient.csproj.AssemblyReference.cache
+C:\Users\ldown\Desktop\Luke-Work\Lesson9\SocketClient\obj\Debug\SocketClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\ldown\Desktop\Luke-Work\Lesson9\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\ldown\Desktop\Luke-Work\Lesson9\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\ldown\Desktop\Luke-Work\Lesson9\SocketClient\obj\Debug\SocketClient.pdb
