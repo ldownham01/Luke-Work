@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Collections;
+using System.Net;
 
 namespace Hangman
 {
@@ -53,7 +54,6 @@ namespace Hangman
 
                     if (c == input)
                     {
-                        Console.WriteLine(currentWord.IndexOf(input, i));
                         char[] underChar = underscore.ToCharArray();
                         underChar[currentWord.IndexOf(input, i)] = input;
                         string mediator = new string(underChar);
@@ -62,7 +62,7 @@ namespace Hangman
                     }
                     i++;
                 }
-                Console.WriteLine(underscore);
+                //Console.WriteLine(underscore);
                 return underscore;
             }
             else
@@ -186,16 +186,35 @@ namespace Hangman
         static void Main(string[] args)
         {
 
+            Console.WriteLine("Welcome to Hangman!");
+            Console.WriteLine("Try to guess the letters in the word!");
+            Console.WriteLine("Be careful! You only have 6 lives, and an incorrect letter will lose you a life!");
+            Console.WriteLine("You can also try to guess the whole word.");
+            Console.WriteLine("If it is wrong though, we will not reveal any characters, even if they are correct.");
+            Console.WriteLine("Good luck!");
+
+
+
+
+        Start:
             // pick random word from list
-            List<string> word = new List<string>();
-            word.Add("HAT");
-            word.Add("ELEPHANT");
-            word.Add("APPLPE");
-            word.Add("CIRCUS");
-            word.Add("RACING");
-            Random ran = new Random();
-            string rdmWord = word[ran.Next(0, word.Count - 1)];
-            Console.WriteLine(rdmWord);
+            /* Random random = new Random();
+             string[] split = System.IO.File.ReadAllLines(@"C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\words_alpha.txt");
+             split = split.Select(s => s.ToUpperInvariant()).ToArray();
+             string rdmWord = split[random.Next(0, split.Length)];*/
+
+            Random random = new Random();
+            WebClient wc = new WebClient();
+            string wordlist = wc.DownloadString("https://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txt");
+            string[] split = wordlist.Split('\n');
+            split = split.Select(s => s.ToUpperInvariant()).ToArray();
+            string rdmWord = split[random.Next(0, split.Length - 1)];
+
+
+
+
+
+            // Console.WriteLine(rdmWord);
 
 
             // underscore string
@@ -204,7 +223,9 @@ namespace Hangman
             {
                 underscore = underscore + "_";
             }
+            Console.WriteLine("\nThis is a {0}-letter word", underscore.Length);
             Console.WriteLine(underscore);
+
 
 
             // prints a hangman
@@ -236,27 +257,51 @@ namespace Hangman
                         Console.WriteLine("Congratulations! The word was: {0}", rdmWord);
                         goto End;
                     }
+                    if (incorrectAttempts == 6)
+                    {
+                        Console.WriteLine("You have lost! The word was: {0}", rdmWord);
+                    }
+                    else
+                    {
+                        Console.WriteLine(underscore);
+                    }
 
 
 
                 }
                 else
                 {
-                    Console.WriteLine("kept as string: {0}", inputString);
+                    //Console.WriteLine("kept as string: {0}", inputString);
 
-                    if (incorrectAttempts == inputWordAtt(inputString, rdmWord, incorrectAttempts))
+                    int tracker = inputWordAtt(inputString, rdmWord, incorrectAttempts);
+                    if (incorrectAttempts == tracker)
                     {
                         figureBuilder(incorrectAttempts);
                         goto End;
                     }
 
-                    incorrectAttempts = inputWordAtt(inputString, rdmWord, incorrectAttempts);
+                    incorrectAttempts = tracker;
                     figureBuilder(incorrectAttempts);
                 }
+
+
             }
 
         End:
-            Console.ReadLine();
+            Console.WriteLine("Press H to play again, or any other key to exit");
+            string key = Console.ReadKey().Key.ToString();
+            if (key != "H")
+            {
+                Environment.Exit(0);
+            }
+            Console.WriteLine("----------------------------------------------------");
+            Console.WriteLine("-----------------------------------------------------");
+            Console.WriteLine();
+            Console.WriteLine("Welcome to Hangman!");
+
+
+
+            goto Start;
 
 
         }
